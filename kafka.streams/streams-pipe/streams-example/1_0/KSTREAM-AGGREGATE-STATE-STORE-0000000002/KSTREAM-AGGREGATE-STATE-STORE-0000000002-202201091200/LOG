@@ -1,0 +1,153 @@
+2022/01/09-23:12:38.283225 5bf8 RocksDB version: 5.0.1
+2022/01/09-23:12:38.283312 5bf8 Git sha rocksdb_build_git_sha:@e14eaa31fd2c211ecb1b0e5036afb539d89f7522@
+2022/01/09-23:12:38.283346 5bf8 Compile date Jan  6 2017
+2022/01/09-23:12:38.283377 5bf8 DB SUMMARY
+2022/01/09-23:12:38.283570 5bf8 SST files in C:\Users\admin\Documents\Personal\kafka\twitter-Project\kafka.streams\streams-pipe\streams-example\1_0\KSTREAM-AGGREGATE-STATE-STORE-0000000002\KSTREAM-AGGREGATE-STATE-STORE-0000000002-202201091200 dir, Total Num: 0, files: 
+2022/01/09-23:12:38.283602 5bf8 Write Ahead Log file in C:\Users\admin\Documents\Personal\kafka\twitter-Project\kafka.streams\streams-pipe\streams-example\1_0\KSTREAM-AGGREGATE-STATE-STORE-0000000002\KSTREAM-AGGREGATE-STATE-STORE-0000000002-202201091200: 
+2022/01/09-23:12:38.283977 5bf8                         Options.error_if_exists: 0
+2022/01/09-23:12:38.284008 5bf8                       Options.create_if_missing: 1
+2022/01/09-23:12:38.284021 5bf8                         Options.paranoid_checks: 1
+2022/01/09-23:12:38.284031 5bf8                                     Options.env: 000002009C2989D0
+2022/01/09-23:12:38.284042 5bf8                                Options.info_log: 000002009C7D96F0
+2022/01/09-23:12:38.284052 5bf8                          Options.max_open_files: -1
+2022/01/09-23:12:38.284062 5bf8                Options.max_file_opening_threads: 16
+2022/01/09-23:12:38.284073 5bf8                         Options.disableDataSync: 0
+2022/01/09-23:12:38.284083 5bf8                               Options.use_fsync: 0
+2022/01/09-23:12:38.284093 5bf8                       Options.max_log_file_size: 0
+2022/01/09-23:12:38.284103 5bf8                  Options.max_manifest_file_size: 18446744073709551615
+2022/01/09-23:12:38.284114 5bf8                   Options.log_file_time_to_roll: 0
+2022/01/09-23:12:38.284124 5bf8                       Options.keep_log_file_num: 1000
+2022/01/09-23:12:38.284134 5bf8                    Options.recycle_log_file_num: 0
+2022/01/09-23:12:38.284144 5bf8                         Options.allow_os_buffer: 1
+2022/01/09-23:12:38.284154 5bf8                        Options.allow_mmap_reads: 0
+2022/01/09-23:12:38.284164 5bf8                         Options.allow_fallocate: 1
+2022/01/09-23:12:38.284174 5bf8                       Options.allow_mmap_writes: 0
+2022/01/09-23:12:38.284184 5bf8                        Options.use_direct_reads: 0
+2022/01/09-23:12:38.284194 5bf8          Options.create_missing_column_families: 0
+2022/01/09-23:12:38.284205 5bf8                              Options.db_log_dir: 
+2022/01/09-23:12:38.284215 5bf8                                 Options.wal_dir: C:\Users\admin\Documents\Personal\kafka\twitter-Project\kafka.streams\streams-pipe\streams-example\1_0\KSTREAM-AGGREGATE-STATE-STORE-0000000002\KSTREAM-AGGREGATE-STATE-STORE-0000000002-202201091200
+2022/01/09-23:12:38.284225 5bf8                Options.table_cache_numshardbits: 6
+2022/01/09-23:12:38.284236 5bf8     Options.delete_obsolete_files_period_micros: 21600000000
+2022/01/09-23:12:38.284246 5bf8                      Options.max_subcompactions: 1
+2022/01/09-23:12:38.284257 5bf8                  Options.max_background_flushes: 1
+2022/01/09-23:12:38.284267 5bf8                         Options.WAL_ttl_seconds: 0
+2022/01/09-23:12:38.284277 5bf8                       Options.WAL_size_limit_MB: 0
+2022/01/09-23:12:38.284287 5bf8             Options.manifest_preallocation_size: 4194304
+2022/01/09-23:12:38.284297 5bf8                         Options.allow_os_buffer: 1
+2022/01/09-23:12:38.284307 5bf8                        Options.allow_mmap_reads: 0
+2022/01/09-23:12:38.284317 5bf8                       Options.allow_mmap_writes: 0
+2022/01/09-23:12:38.284327 5bf8                     Options.is_fd_close_on_exec: 1
+2022/01/09-23:12:38.284338 5bf8                   Options.stats_dump_period_sec: 600
+2022/01/09-23:12:38.284348 5bf8                   Options.advise_random_on_open: 1
+2022/01/09-23:12:38.284358 5bf8                    Options.db_write_buffer_size: 0
+2022/01/09-23:12:38.284368 5bf8         Options.access_hint_on_compaction_start: 1
+2022/01/09-23:12:38.284405 5bf8  Options.new_table_reader_for_compaction_inputs: 0
+2022/01/09-23:12:38.284420 5bf8               Options.compaction_readahead_size: 0
+2022/01/09-23:12:38.284431 5bf8           Options.random_access_max_buffer_size: 1048576
+2022/01/09-23:12:38.284441 5bf8           Options.writable_file_max_buffer_size: 1048576
+2022/01/09-23:12:38.284452 5bf8                      Options.use_adaptive_mutex: 0
+2022/01/09-23:12:38.284462 5bf8                            Options.rate_limiter: 0000000000000000
+2022/01/09-23:12:38.284472 5bf8     Options.sst_file_manager.rate_bytes_per_sec: 0
+2022/01/09-23:12:38.284490 5bf8                          Options.bytes_per_sync: 0
+2022/01/09-23:12:38.284501 5bf8                      Options.wal_bytes_per_sync: 0
+2022/01/09-23:12:38.284511 5bf8                       Options.wal_recovery_mode: 2
+2022/01/09-23:12:38.284521 5bf8                  Options.enable_thread_tracking: 0
+2022/01/09-23:12:38.284531 5bf8         Options.allow_concurrent_memtable_write: 1
+2022/01/09-23:12:38.284541 5bf8      Options.enable_write_thread_adaptive_yield: 1
+2022/01/09-23:12:38.284551 5bf8             Options.write_thread_max_yield_usec: 100
+2022/01/09-23:12:38.284561 5bf8            Options.write_thread_slow_yield_usec: 3
+2022/01/09-23:12:38.284571 5bf8                               Options.row_cache: None
+2022/01/09-23:12:38.284581 5bf8                              Options.wal_filter: None
+2022/01/09-23:12:38.284592 5bf8             Options.avoid_flush_during_recovery: 0
+2022/01/09-23:12:38.284602 5bf8             Options.base_background_compactions: 1
+2022/01/09-23:12:38.284612 5bf8             Options.max_background_compactions: 7
+2022/01/09-23:12:38.284622 5bf8             Options.avoid_flush_during_shutdown: 0
+2022/01/09-23:12:38.284632 5bf8             Options.delayed_write_rate : 2097152
+2022/01/09-23:12:38.284642 5bf8             Options.max_total_wal_size: 0
+2022/01/09-23:12:38.284653 5bf8 Compression algorithms supported:
+2022/01/09-23:12:38.284669 5bf8 	Snappy supported: 0
+2022/01/09-23:12:38.284681 5bf8 	Zlib supported: 0
+2022/01/09-23:12:38.284691 5bf8 	Bzip supported: 0
+2022/01/09-23:12:38.284701 5bf8 	LZ4 supported: 0
+2022/01/09-23:12:38.284711 5bf8 	ZSTD supported: 0
+2022/01/09-23:12:38.284730 5bf8 Fast CRC32 supported: 0
+2022/01/09-23:12:38.878893 5bf8               Options.comparator: leveldb.BytewiseComparator
+2022/01/09-23:12:38.879007 5bf8           Options.merge_operator: None
+2022/01/09-23:12:38.879067 5bf8        Options.compaction_filter: None
+2022/01/09-23:12:38.879117 5bf8        Options.compaction_filter_factory: None
+2022/01/09-23:12:38.879167 5bf8         Options.memtable_factory: SkipListFactory
+2022/01/09-23:12:38.879217 5bf8            Options.table_factory: BlockBasedTable
+2022/01/09-23:12:38.879309 5bf8            table_factory options:   flush_block_policy_factory: FlushBlockBySizePolicyFactory (000002009BE807D0)
+  cache_index_and_filter_blocks: 0
+  pin_l0_filter_and_index_blocks_in_cache: 0
+  index_type: 0
+  hash_index_allow_collision: 1
+  checksum: 1
+  no_block_cache: 0
+  block_cache: 000002009C2005F0
+  block_cache_size: 52428800
+  block_cache_compressed: 0000000000000000
+  block_size: 4096
+  block_size_deviation: 10
+  block_restart_interval: 16
+  index_block_restart_interval: 1
+  filter_policy: nullptr
+  whole_key_filtering: 1
+  skip_table_builder_flush: 0
+  format_version: 0
+2022/01/09-23:12:38.879368 5bf8        Options.write_buffer_size: 16777216
+2022/01/09-23:12:38.879434 5bf8  Options.max_write_buffer_number: 3
+2022/01/09-23:12:38.879497 5bf8          Options.compression: NoCompression
+2022/01/09-23:12:38.879548 5bf8                  Options.bottommost_compression: Disabled
+2022/01/09-23:12:38.879599 5bf8       Options.prefix_extractor: nullptr
+2022/01/09-23:12:38.879648 5bf8   Options.memtable_insert_with_hint_prefix_extractor: nullptr
+2022/01/09-23:12:38.879697 5bf8             Options.num_levels: 7
+2022/01/09-23:12:38.879746 5bf8        Options.min_write_buffer_number_to_merge: 1
+2022/01/09-23:12:38.879795 5bf8     Options.max_write_buffer_number_to_maintain: 0
+2022/01/09-23:12:38.879984 5bf8            Options.compression_opts.window_bits: -14
+2022/01/09-23:12:38.880057 5bf8                  Options.compression_opts.level: -1
+2022/01/09-23:12:38.880110 5bf8               Options.compression_opts.strategy: 0
+2022/01/09-23:12:38.880161 5bf8         Options.compression_opts.max_dict_bytes: 0
+2022/01/09-23:12:38.880211 5bf8      Options.level0_file_num_compaction_trigger: 4
+2022/01/09-23:12:38.880261 5bf8          Options.level0_slowdown_writes_trigger: 20
+2022/01/09-23:12:38.880311 5bf8              Options.level0_stop_writes_trigger: 32
+2022/01/09-23:12:38.880362 5bf8                   Options.target_file_size_base: 67108864
+2022/01/09-23:12:38.880431 5bf8             Options.target_file_size_multiplier: 1
+2022/01/09-23:12:38.880487 5bf8                Options.max_bytes_for_level_base: 268435456
+2022/01/09-23:12:38.880541 5bf8 Options.level_compaction_dynamic_level_bytes: 0
+2022/01/09-23:12:38.880590 5bf8          Options.max_bytes_for_level_multiplier: 10.000000
+2022/01/09-23:12:38.880695 5bf8 Options.max_bytes_for_level_multiplier_addtl[0]: 1
+2022/01/09-23:12:38.880746 5bf8 Options.max_bytes_for_level_multiplier_addtl[1]: 1
+2022/01/09-23:12:38.880795 5bf8 Options.max_bytes_for_level_multiplier_addtl[2]: 1
+2022/01/09-23:12:38.880844 5bf8 Options.max_bytes_for_level_multiplier_addtl[3]: 1
+2022/01/09-23:12:38.880893 5bf8 Options.max_bytes_for_level_multiplier_addtl[4]: 1
+2022/01/09-23:12:38.880942 5bf8 Options.max_bytes_for_level_multiplier_addtl[5]: 1
+2022/01/09-23:12:38.880991 5bf8 Options.max_bytes_for_level_multiplier_addtl[6]: 1
+2022/01/09-23:12:38.881040 5bf8       Options.max_sequential_skip_in_iterations: 8
+2022/01/09-23:12:38.881089 5bf8                    Options.max_compaction_bytes: 1677721600
+2022/01/09-23:12:38.881139 5bf8                        Options.arena_block_size: 2097152
+2022/01/09-23:12:38.881188 5bf8   Options.soft_pending_compaction_bytes_limit: 68719476736
+2022/01/09-23:12:38.881237 5bf8   Options.hard_pending_compaction_bytes_limit: 274877906944
+2022/01/09-23:12:38.881286 5bf8       Options.rate_limit_delay_max_milliseconds: 1000
+2022/01/09-23:12:38.881335 5bf8                Options.disable_auto_compactions: 0
+2022/01/09-23:12:38.881398 5bf8           Options.verify_checksums_in_compaction: 1
+2022/01/09-23:12:38.881452 5bf8                         Options.compaction_style: 1
+2022/01/09-23:12:38.881502 5bf8                           Options.compaction_pri: 0
+2022/01/09-23:12:38.881551 5bf8  Options.compaction_options_universal.size_ratio: 1
+2022/01/09-23:12:38.881600 5bf8 Options.compaction_options_universal.min_merge_width: 2
+2022/01/09-23:12:38.881648 5bf8 Options.compaction_options_universal.max_merge_width: 4294967295
+2022/01/09-23:12:38.881698 5bf8 Options.compaction_options_universal.max_size_amplification_percent: 200
+2022/01/09-23:12:38.881748 5bf8 Options.compaction_options_universal.compression_size_percent: -1
+2022/01/09-23:12:38.881797 5bf8 Options.compaction_options_fifo.max_table_files_size: 1073741824
+2022/01/09-23:12:38.881847 5bf8                   Options.table_properties_collectors: 
+2022/01/09-23:12:38.881897 5bf8                   Options.inplace_update_support: 0
+2022/01/09-23:12:38.881946 5bf8                 Options.inplace_update_num_locks: 10000
+2022/01/09-23:12:38.881995 5bf8               Options.min_partial_merge_operands: 2
+2022/01/09-23:12:38.882044 5bf8               Options.memtable_prefix_bloom_size_ratio: 0.000000
+2022/01/09-23:12:38.882096 5bf8   Options.memtable_huge_page_size: 0
+2022/01/09-23:12:38.882146 5bf8                           Options.bloom_locality: 0
+2022/01/09-23:12:38.882194 5bf8                    Options.max_successive_merges: 0
+2022/01/09-23:12:38.882244 5bf8                Options.optimize_filters_for_hits: 0
+2022/01/09-23:12:38.882292 5bf8                Options.paranoid_file_checks: 0
+2022/01/09-23:12:38.882350 5bf8                Options.force_consistency_checks: 0
+2022/01/09-23:12:38.882409 5bf8                Options.report_bg_io_stats: 0
